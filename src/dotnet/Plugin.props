@@ -1,0 +1,16 @@
+<Project>
+  <PropertyGroup>
+    <SdkVersion>2018.3.0-*</SdkVersion>
+    
+    <Title>here2there</Title>
+    <Description>Finds all calls from here to there.</Description>
+  
+    <Authors>Andreas Gullberg Larsen</Authors>
+    <Copyright>Copyright $([System.DateTime]::Now.Year) Maintainers of here2there</Copyright>
+    <PackageTags>resharper plugin</PackageTags>
+  
+    <PackageProjectUrl>https://github.com/angularsen/here2there</PackageProjectUrl>
+    <PackageLicenseExpression>MIT-0</PackageLicenseExpression>
+    <PackageIconUrl></PackageIconUrl>
+  </PropertyGroup>
+</Project>
